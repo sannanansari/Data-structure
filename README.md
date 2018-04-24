@@ -1,2 +1,3 @@
 # Data-structure
-DS
+Data structure Repo. using python. With the documentation. 
+
